@@ -2,6 +2,8 @@
 
 A simple script to fetch and save user IDs from a Discord server using an alternate account. **Note:** This script uses a self-bot and violates Discord's Terms of Service. Use at your own risk.
 
+*Requires Node.js*
+
 ## Usage
 
 1. Clone the repository:
