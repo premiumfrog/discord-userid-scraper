@@ -11,8 +11,9 @@ A simple script to fetch and save user IDs from a Discord server using an altern
    git clone https://github.com/yourusername/discord-userid-scraper.git
    cd discord-userid-scraper
    ```
-2. Install dependencies:
+2. Initialize and Install dependencies:
     ```sh
+    npm init
     npm install dotenv discord.js-selfbot-v13
     ```
 3. Update index.js with your credentials:
