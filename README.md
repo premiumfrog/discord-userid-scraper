@@ -8,7 +8,7 @@ A simple script to fetch and save user IDs from a Discord server using an altern
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/discord-userid-scraper.git
+   git clone https://github.com/premiumfrog/discord-userid-scraper.git
    cd discord-userid-scraper
    ```
 2. Initialize and Install dependencies:
